@@ -1,0 +1,12 @@
+Django==4.2.7
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.0
+django-cors-headers==4.3.1
+channels==4.0.0
+channels-redis==4.1.0
+python-decouple==3.8
+mysqlclient==2.2.0
+Pillow==10.1.0
+opencv-python==4.8.1.78
+mediapipe==0.10.3
+ultralytics==8.0.196
