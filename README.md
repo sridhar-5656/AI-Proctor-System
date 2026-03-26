@@ -23,46 +23,6 @@ An AI-based online exam monitoring system that ensures secure and fair examinati
 * **AI/ML:** OpenCV
 * **Cloud:** AWS
 
----
-
-## 📸 Screenshots
-
-### 👨‍🎓 Student Dashboard
-
-![Student Dashboard](images/student-dashboard.png)
-
----
-
-### 🧑‍💼 Admin Dashboard Overview
-
-![Admin Dashboard](images/admin-overview.png)
-
----
-
-### 📝 Exam Management
-
-![Exam Management](images/exam-management.png)
-
----
-
-### ⚠️ Violation Records
-
-![Violations](images/violations.png)
-
----
-
-### 📜 System Logs
-
-![Logs](images/logs.png)
-
----
-
-### 🏆 Results & Leaderboard
-
-![Leaderboard](images/leaderboard.png)
-
----
-
 ## ⚙️ Installation
 
 ```bash
